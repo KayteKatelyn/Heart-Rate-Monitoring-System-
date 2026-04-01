@@ -17,6 +17,6 @@ filtered, pulse rate metrics and pulse-synchronized auditory signals.
 
 ## Overall Design
 <p align="center">
-  <img width="700" height="600" alt="image" src="Overall Design.jpg" />
+  <img width="500" height="500" alt="image" src="Overall Design.jpg" />
 </p>
 
