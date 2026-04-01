@@ -22,12 +22,12 @@ filtered, pulse rate metrics and pulse-synchronized auditory signals.
   <img width="500" height="600" alt="image" src="Architectural_Design.png" />
 </p>
 
-## System Design (Pin Diagram)
+**System Design - Pin Diagram**
 <p align="left">
   <img width="700" height="900" alt="image" src="System Design.jpg" />
 </p>
 
-## Overall Design
+**Overall Design**
 <p align="left">
   <img width="500" height="600" alt="image" src="Overall Design.jpg" />
 </p>
