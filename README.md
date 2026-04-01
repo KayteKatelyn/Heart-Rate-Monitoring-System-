@@ -32,5 +32,11 @@ filtered, pulse rate metrics and pulse-synchronized auditory signals.
   <img width="500" height="600" alt="image" src="Overall Design.jpg" />
 </p>
 
+## Results
+**Overall System and PPS Graph**
+
+<img width="270" height="150" alt="image" src="Overall System.jpg" />
+<img width="270" height="150" alt="image" src="PPS Graph.jpg" /><br><br>
+
 
 
