@@ -4,3 +4,5 @@ Processing (DSP) logic in C++ to filter noise and enhance signal quality from ra
 
 Designed a real-time feedback loop for Heart Rate Variability (HRV) analysis, transforming raw optical biometric data into 
 filtered, pulse rate metrics and pulse-synchronized auditory signals.
+
+## Architectural Design
