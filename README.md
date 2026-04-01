@@ -9,3 +9,5 @@ filtered, pulse rate metrics and pulse-synchronized auditory signals.
 <p align="center">
   <img width="500" height="600" alt="image" src="Architectural_Design.png" />
 </p>
+
+## System Design (Pin Diagram)
