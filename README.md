@@ -7,5 +7,5 @@ filtered, pulse rate metrics and pulse-synchronized auditory signals.
 
 ## Architectural Design
 <p align="center">
-  <img width="800" height="900" alt="image" src="Architectural_Design.png" />
+  <img width="500" height="600" alt="image" src="Architectural_Design.png" />
 </p>
