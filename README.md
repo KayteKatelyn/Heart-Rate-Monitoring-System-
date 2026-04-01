@@ -6,7 +6,7 @@ Designed a real-time feedback loop for Heart Rate Variability (HRV) analysis, tr
 filtered, pulse rate metrics and pulse-synchronized auditory signals.
 
 ## Architectural Design
-<p align="center">
+<p align="left">
   <img width="500" height="600" alt="image" src="Architectural_Design.png" />
 </p>
 
