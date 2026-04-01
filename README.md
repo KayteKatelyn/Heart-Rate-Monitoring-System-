@@ -15,7 +15,8 @@ filtered, pulse rate metrics and pulse-synchronized auditory signals.
 - Breadboard
 
 ## Software Requirements
-- Arduino IDE (2.0.3)  Library installed - PulseSensor Playground by Joel Murphy, Yurvy Gitman, Brad Needham. Version 1.6.3
+- Arduino IDE (2.0.3)
+- Library installed - PulseSensor Playground by Joel Murphy, Yurvy Gitman, Brad Needham. Version 1.6.3
 
 ## Architectural Design
 <p align="left">
