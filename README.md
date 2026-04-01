@@ -35,6 +35,5 @@ filtered, pulse rate metrics and pulse-synchronized auditory signals.
 ## Simulation and Results
 <p align="left">
   <video src="Heart Rate Monitoring System.mp4" width="500" height="600" controls muted autoplay loop>
-  </video>
 </p>
 
