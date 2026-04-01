@@ -32,4 +32,8 @@ filtered, pulse rate metrics and pulse-synchronized auditory signals.
   <img width="500" height="600" alt="image" src="Overall Design.jpg" />
 </p>
 
+## Simulation and Results
+<p align="left">
+  <img width="500" height="600" alt="image" src="Heart Rate Monitoring System.mp4" />
+</p>
 
