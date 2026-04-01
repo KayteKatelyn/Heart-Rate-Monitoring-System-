@@ -5,6 +5,18 @@ Processing (DSP) logic in C++ to filter noise and enhance signal quality from ra
 Designed a real-time feedback loop for Heart Rate Variability (HRV) analysis, transforming raw optical biometric data into 
 filtered, pulse rate metrics and pulse-synchronized auditory signals.
 
+## Hardware Requirements
+- Arduino Board
+- Pulse Sensor
+- LCD (Liquid-Crystal Display)
+- LED (Liquid Emitting Diode)
+- Buzzer
+- Connecting Wires and Resistors
+- Breadboard
+
+## Software Requirements
+- Arduino IDE (2.0.3)  Library installed - PulseSensor Playground by Joel Murphy, Yurvy Gitman, Brad Needham. Version 1.6.3
+
 ## Architectural Design
 <p align="left">
   <img width="500" height="600" alt="image" src="Architectural_Design.png" />
@@ -20,14 +32,4 @@ filtered, pulse rate metrics and pulse-synchronized auditory signals.
   <img width="500" height="600" alt="image" src="Overall Design.jpg" />
 </p>
 
-## Hardware Requirements
-- Arduino Board
-- Pulse Sensor
-- LCD (Liquid-Crystal Display)
-- LED (Liquid Emitting Diode)
-- Buzzer
-- Connecting Wires and Resistors
-- Breadboard
 
-## Software Requirements
-- Arduino IDE (2.0.3)  Library installed - PulseSensor Playground by Joel Murphy, Yurvy Gitman, Brad Needham. Version 1.6.3
