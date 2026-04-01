@@ -12,6 +12,6 @@ filtered, pulse rate metrics and pulse-synchronized auditory signals.
 
 ## System Design (Pin Diagram)
 <p align="center">
-  <img width="500" height="600" alt="image" src="System Design.jpg" />
+  <img width="700" height="900" alt="image" src="System Design.jpg" />
 </p>
 
