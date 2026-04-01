@@ -41,7 +41,7 @@ filtered, pulse rate metrics and pulse-synchronized auditory signals.
 
 **PPS Graph**
 <p align="left">
-  <img width="500" height="600" alt="image" src="PPS Graph.jpg" />
+  <img width="700" height="700" alt="image" src="PPS Graph.jpg" />
 </p>
 
 
