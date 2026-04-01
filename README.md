@@ -20,3 +20,14 @@ filtered, pulse rate metrics and pulse-synchronized auditory signals.
   <img width="500" height="600" alt="image" src="Overall Design.jpg" />
 </p>
 
+## Hardware Requirements
+- Arduino Board
+- Pulse Sensor
+- LCD (Liquid-Crystal Display)
+- LED (Liquid Emitting Diode)
+- Buzzer
+- Connecting Wires and Resistors
+- Breadboard
+
+## Software Requirements
+- Arduino IDE (2.0.3)  Library installed - PulseSensor Playground by Joel Murphy, Yurvy Gitman, Brad Needham. Version 1.6.3
